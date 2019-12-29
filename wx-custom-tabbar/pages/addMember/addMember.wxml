@@ -1,0 +1,5 @@
+<!--miniprogram/pages/addMember/addMember.wxml-->
+<view   class='container addMember'>
+  addMember
+  <add-icon class='false-tab-icon'></add-icon>
+</view>
